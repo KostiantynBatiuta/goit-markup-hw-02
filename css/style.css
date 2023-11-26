@@ -13,7 +13,10 @@ background: var(--WHITE, #FFF);
 }
 
 .nav {
-
+display: inline-flex;
+align-items: flex-start;
+gap: 40px;
+color: #2E2F42;
 }
 
 .logo {
