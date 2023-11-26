@@ -1,5 +1,109 @@
 body {
-    font-family: sans-serif;
-    background-color: ;
-    color: ;
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+
+.main_header {
+width: 1440px;
+height: 72px;
+flex-shrink: 0;
+border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
+background: var(--WHITE, #FFF);
+}
+
+.nav {
+
+}
+
+.logo {
+
+}
+
+.span_logo {
+
+}
+
+.nav_item {
+
+}
+
+.nav_link {
+
+}
+
+.address {
+
+}
+
+.address_list {
+
+}
+
+.address_item {
+
+}
+
+.container_main_title {
+
+}
+
+.main_title {
+
+}
+
+.btn {
+
+}
+
+.container_advantage {
+
+}
+
+.advantage_title {
+
+}
+
+.advantage_list {
+
+}
+
+.advantage_item {
+
+}
+
+.advantage {
+
+}
+
+.advantage_text {
+
+}
+
+.container_our_team {
+
+}
+
+.our_team_title {
+
+}
+
+.our_team_list {
+
+}
+
+.name_item {
+
+}
+
+.name_title {
+
+}
+
+.proffessions {
+
+}
+
+.text_footer {
+
 }
