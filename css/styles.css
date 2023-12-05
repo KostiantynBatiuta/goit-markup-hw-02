@@ -54,16 +54,6 @@ letter-spacing: 0.02em;
     color:#404BBF;
 }
 
-.nav_item_portofolio a:hover,
-.nav_item_portofolio:focus {
-    color:#404BBF;
-}
-
-.nav_item_contacts a:hover,
-.nav_item_contacts:focus {
-    color:#404BBF;
-}
-
 .nav_item_studio:active {
 text-decoration: underline;
 }
@@ -148,8 +138,11 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
-.btn:focus,
-.btn a:hover  {
+.btn:focus {
+    background-color: #404BBF;
+    }
+
+.btn a:hover {
     background-color: #404BBF;
     }
 
