@@ -50,6 +50,14 @@ color: #2E2F42;
 text-decoration: underline;
 }
 
+.adress_list a {
+color: #434455;
+}
+
+.adress_list a:hover {
+    color: #404BBF;
+    }
+    
 .nav_item_studio {
     color: var(--NAVY-BLUE, #2E2F42);
     /* Body Medium */
