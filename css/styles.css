@@ -58,7 +58,8 @@ color: #2E2F42;
     letter-spacing: 0.02em;
 }
 
-.nav-list a:hover {
+.nav_link a:hover, 
+.nav-link:focus  {
     color: #404BBF;
 }
 
@@ -70,7 +71,8 @@ text-decoration: underline;
 color: #434455;
 }
 
-.adress_list a:hover {
+.adress_list a:hover, 
+.adress_list:focus {
     color: #404BBF;
     }
     
