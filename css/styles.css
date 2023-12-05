@@ -119,8 +119,38 @@ letter-spacing: 0.02em;
 }
 
 .footer {
-    background-color: #2E2F42;
-    width: 1440px;
+background-color: #2E2F42;
+width: 1440px;
 height: 312px;
 flex-shrink: 0;
+}
+
+.logo {
+    display: flex;
+width: 71px;
+height: 21px;
+flex-direction: column;
+justify-content: center;
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase; 
+}
+.span_logo {
+    color: #f4f4fd
+}
+
+.text_footer {
+width: 264px;
+color: #F4F4FD;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
