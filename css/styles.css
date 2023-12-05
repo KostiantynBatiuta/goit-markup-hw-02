@@ -49,17 +49,18 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.nav_link a:hover {
+.nav_item_studio a:hover,
+.nav_item_studio:focus {
     color:#404BBF;
 }
 
-
-.nav-link:focus {
-color:#404BBF;
+.nav_item_portofolio a:hover,
+.nav_item_portofolio:focus {
+    color:#404BBF;
 }
 
-.nav_item_studio a:hover,
-.nav_item_studio:focus {
+.nav_item_contacts a:hover,
+.nav_item_contacts:focus {
     color:#404BBF;
 }
 
