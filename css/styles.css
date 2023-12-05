@@ -67,12 +67,16 @@ color: #2E2F42;
 text-decoration: underline;
 }
 
-.adress_list a {
+.address_header {
+    font-style: normal;
+}
+
+.address_list a {
 color: #434455;
 }
 
-.adress_list a:hover, 
-.adress_list:focus {
+.address_item a:hover, 
+.address_item:focus {
     color: #404BBF;
     }
     
@@ -102,4 +106,14 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+}
+
+.address_item {
+    color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
