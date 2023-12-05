@@ -67,12 +67,9 @@ color: #434455;
 }
 
 .address_item a:hover {
-    color: #404BBF;
-    }
-    
-.address_item:focus {
-    color: #404BBF;
-    }
+.address_item:focus
+color: #404BBF;
+}
 
 .nav_item_studio {
 color: #2E2F42;
