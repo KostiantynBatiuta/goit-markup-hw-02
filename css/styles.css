@@ -49,8 +49,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.nav-list a:hover,
-.nav-list:focus {
+.nav_item_studio a:hover,
+.nav_item_studio:focus {
     color:#404BBF;
 }
 
