@@ -51,7 +51,7 @@ letter-spacing: 0.02em;
 
 .nav_item_studio a:hover,
 .nav_item_studio:focus {
-    color:#404BBF;
+color:#404BBF;
 }
 
 .nav_item_studio:active {
@@ -66,8 +66,8 @@ font-style: normal;
 color: #434455;
 }
 
-.address_item a:hover {
-.address_item:focus
+.address_item a:hover,
+.address_item:focus {
 color: #404BBF;
 }
 
