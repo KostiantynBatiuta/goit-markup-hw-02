@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+button {
+    cursor: pointer;
+}
+
 .main_header {
 width: 1440px;
 height: 72px;
@@ -19,12 +23,14 @@ flex-shrink: 0;
 border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
 background: var(--WHITE, #FFF);
 }
+
 .nav {
 display: inline-flex;
 align-items: flex-start;
 gap: 40px;
 color: #2E2F42;
 }
+
 .logo {
 width: 44px;
 color: var(--IRIS, #4D5AE5);
@@ -36,6 +42,7 @@ line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
+
 .span_logo {
 width: 71px;
 color: #2E2F42;
