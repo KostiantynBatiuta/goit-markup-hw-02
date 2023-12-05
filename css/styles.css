@@ -49,13 +49,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.nav_list a:hover, 
-.nav-list:focus {
-color:#404BBF;
+.nav_link a:hover {
+    color:#404BBF;
 }
 
 
-.nav_link a:hover, 
 .nav-link:focus {
 color:#404BBF;
 }
@@ -144,11 +142,8 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
-.btn:hover {
-    background-color: #404BBF;
-}
-
-.btn:focus {
+.btn:focus,
+.btn a:hover  {
     background-color: #404BBF;
     }
 
