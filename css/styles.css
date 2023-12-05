@@ -77,8 +77,7 @@ color: #434455;
     }
     
 .nav_item_studio {
-    color: var(--NAVY-BLUE, #2E2F42);
-    /* Body Medium */
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -87,8 +86,7 @@ color: #434455;
     letter-spacing: 0.32px;
 }
 .nav_item_portofolio {
-    color: var(--NAVY-BLUE, #2E2F42);
-    /* Body Medium */
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -97,8 +95,7 @@ color: #434455;
     letter-spacing: 0.32px;  
 }
 .nav_item_contacts {
-    color: var(--NAVY-BLUE, #2E2F42);
-/* Body Medium */
+    color:#2E2F42;
 font-family: Roboto;
 font-size: 16px;
 font-style: normal;
