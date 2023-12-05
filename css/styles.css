@@ -17,7 +17,7 @@ button {
 }
 
 .main_header {
-background: var(--WHITE, #FFF);
+background: #FFF;
 }
 
 .nav {
@@ -114,6 +114,44 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
+/* Section one */
+.container_main_title {
+background-color: #2E2F42;
+}
+
+.main_title {
+color: #FFFFFF;
+text-align: center;
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+}
+
+.btn {
+background-color: #4D5AE5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+cursor: pointer;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.04em;
+}
+
+.btn a:hover {
+    background-color: #404BBF;
+}
+
+.btn:focus {
+background-color: #404BBF;
+    }
+
+
 
 .main_footer {
 background-color: #2E2F42;
