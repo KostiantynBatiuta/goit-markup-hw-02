@@ -31,6 +31,25 @@ text-transform: uppercase;
 width: 71px;
 color: #2E2F42;
 }
+
+.nav-list a {
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-list a:hover {
+    color: #404BBF;
+}
+
+.nav_item_studio:active {
+text-decoration: underline;
+}
+
 .nav_item_studio {
     color: var(--NAVY-BLUE, #2E2F42);
     /* Body Medium */
