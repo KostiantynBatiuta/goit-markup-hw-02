@@ -43,7 +43,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.nav_link a:hover,
+.nav_link:hover,
 .nav_link:focus {
 color:#404BBF;
 }
@@ -70,7 +70,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.link_mail_tel a:hover,
+.link_mail_tel:hover,
 .link_mail_tel:focus {
 color: #404BBF;
 }
