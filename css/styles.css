@@ -42,22 +42,18 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
 .nav_link a:hover,
 .nav_link:focus {
 color:#404BBF;
 }
+
 .nav_item_studio:active {
 text-decoration: underline;
 }
+
 .address_header {
 font-style: normal;
-}
-.address_list a {
-color: #434455;
-}
-.link_mail_tel a:hover,
-.link_mail_tel:focus {
-color: #404BBF;
 }
 
 .address_item {
@@ -68,6 +64,15 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
+}
+
+.address_list a {
+color: #434455;
+}
+
+.link_mail_tel a:hover,
+.link_mail_tel:focus {
+color: #404BBF;
 }
 
 /* Section one */
